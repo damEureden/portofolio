@@ -10,7 +10,7 @@
         <h1>This is my website</h1>
 <div class="topnav">
   <a class="active" href="#home">Home</a>
-  <a href="cv.html">Mon CV</a>
+  <a href="cv.php">Mon CV</a>
   <a href="#contact">Contact</a>
   <a href="#about">About</a>
 </div>
